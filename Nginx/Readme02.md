@@ -1,5 +1,5 @@
-Guion Paso a Paso: Configuración de Servidor Web Debian con Nginx y UFW
-Objetivo: Configurar una PC Debian para servir una página web con Nginx, protegerla con UFW, y demostrar el acceso desde una máquina cliente (usando IP y nombre de dominio local).
+# Guion Paso a Paso: Configuración de Servidor Web Debian con Nginx y UFW
+## Objetivo: Configurar una PC Debian para servir una página web con Nginx, protegerla con UFW, y demostrar el acceso desde una máquina cliente (usando IP y nombre de dominio local).
 
 Hardware/Software Necesario:
 
