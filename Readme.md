@@ -1,6 +1,6 @@
 # Contenido de este repositorio
 
-## Que contienen las carpetas:
+## Detalles de las carpetas:
 
 * Archivos útiles
 * Tutoriales
