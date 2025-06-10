@@ -29,7 +29,8 @@ Bash
 2: wlp1s0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc noqueue state UP group default qlen 1000
     link/ether 00:11:22:33:44:55 brd ff:ff:ff:ff:ff:ff
     inet 192.168.1.190/24 brd 192.168.1.255 scope global dynamic wlp1s0  <-- ¡Esta es tu IP!
-       valid_lft 86297sec preferred_lft 86297sec```
+       valid_lft 86297sec preferred_lft 86297sec
+```
 
 **Verifica la conectividad a Internet:**
 
