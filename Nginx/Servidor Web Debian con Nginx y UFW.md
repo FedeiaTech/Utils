@@ -206,7 +206,7 @@ Bash
 sudo ufw status verbose
 ```
 
-### Paso 1.4: Configurar la Resolución de Nombre Local (host.lan)
+### Paso 1.4: Configurar la Resolución de Nombre Local (paso es opcional)
 
 **Edita el archivo /etc/hosts:**
 
@@ -217,7 +217,7 @@ sudo nano /etc/hosts
 
 **Agrega la siguiente línea al final del archivo:**
 ```
-192.168.1.190   host.lan
+192.168.1.190   lan.host
 ```
 Guarda y sal (Ctrl + O, Enter, Ctrl + X).
 
@@ -227,7 +227,11 @@ Bash
 ```
 sudo systemd-resolve --flush-caches
 ```
-Verifica: host host.lan debe resolver a 192.168.1.190.
+Verifica: 
+```
+host lan.host 
+```
+debe resolver a 192.168.1.190.
 
 ### Paso 1.5: Reiniciar el Sistema (¡Recomendado para aplicar todo!)
 
