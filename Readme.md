@@ -1,8 +1,8 @@
 # Contenido de este repositorio
 
-## Que contiene esta carpeta:
+## Que contienen las carpetas:
 
-* Archivos utiles
+* Archivos útiles
 * Tutoriales
 
 **Autor:** IACONO, Federico
